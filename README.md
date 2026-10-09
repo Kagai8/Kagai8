@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi there, I'm Quincy! 👋
 
-<!--
-**Kagai8/Kagai8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack Software Developer and IT Professional based in Nairobi, Kenya. I specialize in building scalable web and mobile applications, optimizing database architectures, and integrating AI-driven workflows to solve real-world business problems. 
 
-Here are some ideas to get you started:
+Currently, I'm advancing my expertise in modern full-stack development at **Moringa School**, while actively freelancing and building production-grade systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Frontend:** React.js, Inertia.js, JavaScript, HTML5, CSS3, Tailwind CSS  
+**Backend:** Node.js, Laravel (PHP), Blade, RESTful APIs  
+**Database & Cloud:** PostgreSQL, MySQL, Cloud Infrastructure, Git/GitHub  
+**AI & Automation:** AI Agent Workflows, n8n, Make.com, Data Cleaning & Representation  
+
+---
+
+### 🚀 Current Focus
+- 🌱 Finishing my Software Engineering Certification at Moringa School (Expected 2026).
+- ⚡ Building multi-tenant, role-based enterprise applications (e.g., Practice Management & Inventory Systems).
+- 🤖 Exploring AI agent integrations to automate business processes.
+
+---
+
+### 📫 Let's Connect!
+- 💼 **LinkedIn:** [linkedin.com/in/quincy-kagai-51b3a7136](https://linkedin.com/in/quincy-kagai-51b3a7136)
+- 📧 **Email:** [quincykagai@gmail.com](mailto:quincykagai@gmail.com)
+- 🌍 **Location:** Nairobi, Kenya (Available for Global Remote Contracts)
+
+---
+*💡 "Code is like humor. When you have to explain it, it’s bad." – Cory House*
