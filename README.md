@@ -9,7 +9,7 @@ Currently, I'm advancing my expertise in modern full-stack development at **Mori
 ### 🛠️ Tech Stack & Tools
 
 **Frontend:** React.js, Inertia.js, JavaScript, HTML5, CSS3, Tailwind CSS  
-**Backend:** Node.js, Laravel (PHP), Blade, RESTful APIs  
+**Backend:** Python, Node.js, Laravel (PHP), Blade, RESTful APIs  
 **Database & Cloud:** PostgreSQL, MySQL, Cloud Infrastructure, Git/GitHub  
 **AI & Automation:** AI Agent Workflows, n8n, Make.com, Data Cleaning & Representation  
 
